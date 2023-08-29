@@ -1,4 +1,4 @@
-# benedetto-niccolo_arena
+# benedetto-niccolo_arena project
 Niccolò Benedetto MAT. 7024656
 HTML/CSS PROJECT - PPM UNIFI
 
